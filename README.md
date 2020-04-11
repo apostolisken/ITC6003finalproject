@@ -11,8 +11,8 @@ one of the 16 groups.
 2. Clustering: Market Segmentation: Unsupervised learning (20%)
 Source data & description: https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
 Discover clusters, evaluate and characterize them.
-3. Regression (20%)
 
+3. Regression (20%)
 It is up to you to choose regression task, but you should inform the instructor and get approval for it.
 Indicative data sources: Kaggle.com , https://www.analyticsvidhya.com/ ,
 https://github.com/awesomedata/awesome-public-datasets , https://www.openml.org/ .
